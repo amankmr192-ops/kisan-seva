@@ -1,8 +1,13 @@
 venv/
 __pycache__/
+backend/__pycache__/
 *.pyc
 *.pyo
+*.pyd
 .env
 vectorstore/
 .DS_Store
 data/schemes/
+*.egg-info/
+dist/
+build/
